@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2023 su
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: b0ec29c2d531f727da9d
+  clientSecret: cef79bdc7df4b8067596d8a83d8e6b0a27059663
   repo: su67.github.io
   owner: su67
 
